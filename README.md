@@ -1,14 +1,16 @@
 <h1 align="center">Hey, I'm Guilherme Erba 👋</h1>
 
 <p align="center">
-  <em>Software Engineer Senior</em>
+  <em>Software Engineer</em>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-####
+<p>
+ I'm Guilherme, a passionate software developer with 8 years of experience, immersed in the exciting universe of web creation, with a strong background in developing and implementing innovative solutions. My journey in this fascinating field has been marked by stimulating challenges and the relentless pursuit of technical excellence.
+</p>
 
 ---
 
@@ -47,18 +49,6 @@
 
 ### ✈️ [Roteirize Já](https://github.com/GuiErba/roteirizeja)
 > An AI-powered travel itinerary generator. Drop your destination and preferences, get a full trip plan — no travel agent required.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiErba&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiErba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
