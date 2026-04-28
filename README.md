@@ -35,23 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🪣 [Bucket Flow](https://github.com/GuiErba/bucket-flow)
-> A Leaky Bucket rate-limiting system built with **Node.js** and exposed via **GraphQL**, consumed on the frontend with **React**. Because uncontrolled traffic is just chaos with an API.
-
----
-
-### 🏗️ [ModuleAPI](https://github.com/GuiErba/module-api)
-> A production-ready **Node.js** API showcase — strong, secure, monitored, and fully containerized. The kind of backend that doesn't wake you up at 3am.
-
----
-
-### ✈️ [Roteirize Já](https://github.com/GuiErba/roteirizeja)
-> An AI-powered travel itinerary generator. Drop your destination and preferences, get a full trip plan — no travel agent required.
-
----
-
 <p align="center">
   <em>"First, solve the problem. Then, write the code." – John Johnson</em>
 </p>
