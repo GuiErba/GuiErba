@@ -9,7 +9,11 @@
 ## 🧑‍💻 About Me
 
 <p>
- I'm Guilherme, a passionate software developer with 8 years of experience, immersed in the exciting universe of web creation, with a strong background in developing and implementing innovative solutions. My journey in this fascinating field has been marked by stimulating challenges and the relentless pursuit of technical excellence.
+👋 I’m a Software Engineer with 8+ years of experience building scalable web applications for global companies. Specialized in React.js, Vue.js, Node.js, Javascript, Typescript, AEM, PostgreSQL and MongoDB, I build high-performance interfaces with clean code and UX focus. My background includes working with large-scale enterprise squads, contributing to agile teams, and leading front-end architecture in projects with high technical complexity.
+
+👨‍💻 Led the unification of Vivo (Telefônica Brasil) multiple niche-specific e-commerce platforms into a single, scalable ecosystem. Collaborated with Solution Architecture teams to modernize the stack using React (micro-frontends), Node.js (BFF), and AEM as CMS headless. This unification improved maintainability and performance, cutting time-to-market by 40%, boosting code reuse by 60%, and reducing deployment overhead by 30%.
+
+🧠 I'm known for strong communication and problem-solving skills, I work closely with product managers, designers, and stakeholders to deliver user-focused solutions. I translate business needs into clear technical paths, align squads around a shared vision, and foster collaboration across teams. With a hands-on mindset and high adaptability, I help drive product outcomes and team effectiveness.
 </p>
 
 ---
