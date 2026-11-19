@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Guilherme Erba 👋</h1>
 
-<p align="center">
-  <em>Software Engineer | AI & Generative AI | React.js, Vue.js, Node.js, Javascript, Typescript, AWS, Adobe Experience Manager (AEM)</em>
-</p>
+<p align="center"><b>Software Engineer | AI & Generative AI | React.js, Vue.js, Node.js, Javascript, Typescript, AWS, Adobe Experience Manager (AEM)</b></p>
 
 ---
 
